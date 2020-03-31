@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
-      <groupId>junitkk</groupId>
+      <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
