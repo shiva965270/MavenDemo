@@ -8,8 +8,9 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-	<sonar.organization>naman2710</sonar.organization>
+  <sonar.projectKey>naman2710_MavenDemo</sonar.projectKey>
+  <sonar.organization>naman2710</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
   <dependencies>
     <dependency>
