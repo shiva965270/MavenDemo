@@ -18,6 +18,7 @@
 <sonar.projectKey>naman2710_MavenDemo</sonar.projectKey>
   <sonar.organization>naman2710</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>b8557bd1bd6e6b22f972edaa00165c961c148e8a</sonar.host.url>
 </properties>
 </profile>
 </profiles>
