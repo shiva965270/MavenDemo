@@ -24,6 +24,18 @@ public class AppTest
     public void testAppConstructor() {
         try {
             new App();
+			int i = 0;
+			i = 2;
+			i = 25;
+			i = 24;
+			i = 22;
+			i = 11;
+			i = 8;
+			i = 7;
+			i = 6;
+			i = 5;
+			i = 4;
+			i = 3;
         } catch (Exception e) {
             fail("Construction failed.");
         }
