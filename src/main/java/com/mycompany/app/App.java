@@ -12,19 +12,19 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-		int m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
-		m=11;
+		int h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
+		h=11;
 		
 		
     }
