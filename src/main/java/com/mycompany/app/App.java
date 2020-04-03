@@ -1,4 +1,4 @@
-pacmage com.mycompany.app;
+package com.mycompany.app;
 
 /**
  * Hello world my first project!
@@ -25,7 +25,7 @@ public class App
 		m=11;
 		m=11;
 		m=11;
-		m=11;
+		
 		
     }
 
