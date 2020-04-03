@@ -1,4 +1,4 @@
-package com.mycompany.app;
+pacmage com.mycompany.app;
 
 /**
  * Hello world my first project!
@@ -12,20 +12,20 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-		int k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
-		k=11;
+		int m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
+		m=11;
 		
     }
 
