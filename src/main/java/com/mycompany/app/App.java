@@ -12,58 +12,21 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-		int j=11;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
-		j=45;
+		int k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		k=11;
+		
     }
 
     private final String getMessage() {
