@@ -80,13 +80,20 @@
     </plugins>
   </build>
   	<distributionManagement>
-		<repository>
-			<id>artifactory</id>
-			<uniqueVersion>false</uniqueVersion>
-			<name>local_SNAPSHOT</name>
-			<url>http://localhost:8046/artifactory/local_SNAPSHOT</url>
-			<layout>default</layout>
-		</repository>
+	 <repository>
+      <uniqueVersion>false</uniqueVersion>
+      <id>artifactoryRelease</id>
+      <name>local_RELEASE</name>
+      <url>http://localhost:8046/artifactory/local_RELEASE</url>
+      <layout>default</layout>
+    </repository>
+    <snapshotRepository>
+      <uniqueVersion>true</uniqueVersion>
+      <id>artifactorySnapshot</id>
+      <name>local_SNAPSHOT</name>
+      <url>http://localhost:8046/artifactory/local_SNAPSHOT</url>
+      <layout>default</layout>
+    </snapshotRepository>		
 	</distributionManagement>
 
 </project>
