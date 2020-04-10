@@ -79,4 +79,12 @@
       
     </plugins>
   </build>
+  	<distributionManagement>
+		<repository>
+			<id>artifactory</id>
+			<name>local_SNAPSHOT</name>
+			<url>http://localhost:8046/artifactory/local_SNAPSHOT</url>
+		</repository>
+	</distributionManagement>
+
 </project>
