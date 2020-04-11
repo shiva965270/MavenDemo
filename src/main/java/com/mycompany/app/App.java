@@ -6,22 +6,13 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World!";
-
-    public App() {}
-
-    public static void main(String[] args) {
-        System.out.println(new App().getMessage());
-		int l=11;
-		int m;
-		m=10;
-		m=100;
-		m=100;
-		m=100;
+   public static void main(String[] args)
+    {
+        System.out.println(new App().greet("world"));
     }
 
-    private final String getMessage() {
-        return message;
+    public String greet(String name) {
+        return "Hello " + name;
     }
 
 }
